@@ -16,6 +16,12 @@ public class ExemploDeExcecao {
 
 			System.out.println("Não é possível atribuir a string " + var);
 			System.out.println(nfe.getCause()); //Pega a causa do problema
+			
+			//System.out.println("Não é possível atribuir a string " + var);
+			//System.out.println(nfe.getCause()); //Pega a causa do problema
+			//System.out.println(nfe.getCause()); //Pega a causa do problema
+			
+
 
 
 
